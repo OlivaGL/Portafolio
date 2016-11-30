@@ -1,0 +1,183 @@
+/*FONDOS*/
+.backverde{
+	background-color: #26AD5F;
+	height: auto;
+}
+.backpaisaje{
+	background-image: url(../img/carousel-bg.jpg);
+	height: auto;
+	background-repeat: no-repeat;
+}
+.backgris{
+	background-color: #2D3E50;
+	height: auto;
+}
+.backcombinado{
+	background-image: url(../img/icon-bg.png);
+}
+
+
+
+h1{
+	font-size: 5em;
+}
+h2{
+	font-size: 4em;
+}
+.pheader{/*párrafo del header*/
+	font-size: 2em;
+}
+.altocaja{/*fue la única manera que hallé para darle un alto a cada caja (probé ponerle altura a la row y también a cada div*/
+	height: 9em;
+	margin: 0;
+}
+hr{
+	border-style: groove;
+	width: 20%
+}
+.agencia{
+	width: 80%;
+	height: 80%;
+}
+.barra{
+	background-color: white;
+	width: 100%;
+	height: 1em;
+	padding: .3em;
+}
+.barra2{
+	background-color: #E77F1F;
+	height: .5em;
+}
+
+.recuadro{
+	border: .5em solid green;
+}
+.marco{
+	background-color: green;
+}
+
+#hr1{
+	width: 95%;
+}
+#hr2{
+	width: 90%;
+}
+#hr3{
+	width: 60%;
+}
+#hr4{
+	width: 70%;
+}
+#hr5{
+	width: 80%;
+}
+
+
+
+/*utilities*/
+.pd-5{
+	padding: 5%;
+}
+.pd-2{
+	padding: 2%;
+}
+.pd-left{
+	padding-left: 9%;
+}
+.pd-right{
+	padding-right: 9%;
+}
+.m-bot-5{
+	margin-bottom: 5%;
+}
+.m-bot-1{
+	margin-bottom: 1%;
+}
+.m-top-5{
+	margin-top: 5%;
+}
+.txbco{
+	color: white;
+}
+.redesch{
+	font-size: 2em;
+}
+
+/*cada una de las cajas de paleta de color*/
+#back1{
+	background-color: #69D2E7;
+}
+#back2{
+	background-color: #A7DBDB;
+}
+#back3{
+	background-color: #E0E4CC;
+}
+#back4{
+	background-color: #F38630;
+}
+#back5{
+	background-color: #FA6900;
+}
+#back6{
+	background-color: #E94C6F;
+}
+#back7{
+	background-color: #542733;
+}
+#back8{
+	background-color: #5A6A62;
+}
+#back9{
+	background-color: #C6D5CD;
+}
+#back10{
+	background-color: #FDF200;
+}
+#back11{
+	background-color: #DB3340;
+}
+#back12{
+	background-color: #E8B81A;
+}
+#back13{
+	background-color: #F7EAC8;
+}
+#back14{
+	background-color: #1FDA9B;
+}
+#back15{
+	background-color: #28ABE3;
+}
+#back16{
+	background-color: #588D73;
+}
+#back17{
+	background-color: #F2E394;
+}
+#back18{
+	background-color: #F2AD72;
+}
+#back19{
+	background-color: #D96559;
+}
+#back20{
+	background-color: #8C4646;
+}
+#back21{
+	background-color: #D0C920;
+}
+#back22{
+	background-color: #84C5B9;
+}
+#back23{
+	background-color: #008BBA;
+}
+#back24{
+	background-color: #DE514D;
+}
+#back25{
+	background-color: #DB403B;
+}
+

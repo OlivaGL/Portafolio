@@ -1,0 +1,29 @@
+
+/*Tablets - Tablet posición vertical*/
+@media(max-width: 991px) and (min-width: 768px){
+	h1 {
+		font-size: 53px;
+	}
+
+/*Phones*/
+@media(max-width: 767px){
+	h1{
+		text-align: center;
+		margin: 0 auto;
+	}
+	.semblanza{
+		font-size: 1.8rem;
+	}
+	.imgperfil{
+		width: 50% !important;
+		height: 50%;
+		margin: 0 auto;
+	}
+	.datos{
+		font-size: 1rem;
+	}
+	footer{
+		font-size: 1.25rem;
+		background-color: green;
+	}
+}
